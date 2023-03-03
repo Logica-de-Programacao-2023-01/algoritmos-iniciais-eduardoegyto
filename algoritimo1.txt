@@ -1,0 +1,4 @@
+1- Leia dois números 
+2- Faça a soma destes números 
+3- Escreva o resultado da soma 
+4- Fim
